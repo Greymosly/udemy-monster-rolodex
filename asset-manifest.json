@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udemy-monster-rolodex/static/css/main.da6731d7.css",
+    "main.js": "/udemy-monster-rolodex/static/js/main.a996c727.js",
+    "static/js/787.6e4b05ca.chunk.js": "/udemy-monster-rolodex/static/js/787.6e4b05ca.chunk.js",
+    "index.html": "/udemy-monster-rolodex/index.html",
+    "main.da6731d7.css.map": "/udemy-monster-rolodex/static/css/main.da6731d7.css.map",
+    "main.a996c727.js.map": "/udemy-monster-rolodex/static/js/main.a996c727.js.map",
+    "787.6e4b05ca.chunk.js.map": "/udemy-monster-rolodex/static/js/787.6e4b05ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6731d7.css",
+    "static/js/main.a996c727.js"
+  ]
+}
